@@ -2,5 +2,7 @@ This repository contains code, data, and results for an assessment of all regist
 
 The purpose of this project is to create judgements and observations from various houses prices paid datasets by inspecting the progression of residential property price information throughout recent years. This will allow us to identify opportunities in the real estate business for both buyers and sellers of properties in the UK.
 
+This project utilised Microsoft Excel, Python, SQL and Tableau.
+
 Link to Tableau Dashboard for this project: https://public.tableau.com/views/UKPropertyDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
